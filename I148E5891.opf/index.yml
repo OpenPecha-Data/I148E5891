@@ -1,0 +1,51 @@
+id: f1aa33307f3c4111988e7850abbfc731
+annotation_type: index
+revision: '00001'
+annotations:
+  e57dc9a463524c08ab35b393f21828b5:
+    base: 9B0F.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 31
+    - title: Preface
+      span:
+        start: 32
+        end: 42
+    - title: 'Chapter I: Dhātunirdeśa'
+      span:
+        start: 43
+        end: 3958
+    - title: 'Chapter II: Indriyanirdeśa'
+      span:
+        start: 3959
+        end: 18461
+    - title: 'Chapter III: Lokanirdeśa'
+      span:
+        start: 18462
+        end: 25633
+    - title: 'Chapter IV: Karmanirdeśa'
+      span:
+        start: 25634
+        end: 34103
+    - title: 'Chapter V: Anuśayanirdeśa'
+      span:
+        start: 34104
+        end: 38822
+    - title: 'Chapter VI: Mārgapudgalanirdeśa'
+      span:
+        start: 38823
+        end: 44619
+    - title: 'Chapter VII: Jñānanirdeśa'
+      span:
+        start: 44620
+        end: 49096
+    - title: 'Chapter VIII: Samāpattinirdeśa'
+      span:
+        start: 49097
+        end: 52231
+    - title: 'Chapter IX: Conclusions'
+      span:
+        start: 52232
+        end: 52880

@@ -1,0 +1,16 @@
+id: I148E5891
+default_language: ug
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 16:01:47.014440
+last_modified: 2023-02-08 16:01:47.014593
+source_metadata:
+  title: 'Vasubandhu: Abhidharmakośabhāṣya'
+  language: ug
+bases:
+  9B0F:
+    base_file: 9B0F.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
